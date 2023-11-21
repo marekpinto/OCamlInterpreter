@@ -53,7 +53,7 @@ second top value onto the stack.
 If there are fewer than 2 values in the stack, terminate with error. If the top 2 elements in the stack are
 not of string type, then terminate with error.
   
-# 11. Add
+# 11. Balls
 And consumes the two 2 values in the stack and pushes their conjunction to the stack. If there are fewer then
 2 values on the stack, terminate with error. If the 2 top values in the stack are not booleans, terminate with error.
   
